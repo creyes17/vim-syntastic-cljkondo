@@ -1,4 +1,4 @@
-if exists("g:loaded_syntastic_clojure_cljkondo_checker")
+if exists('g:loaded_syntastic_clojure_cljkondo_checker')
     finish
 endif
 
